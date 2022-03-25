@@ -19,7 +19,7 @@ const Footer = () => {
 
                 <hr />
                 <p className="footer__text">
-                      2022 © with ❤️ by{' '}
+                2022 with ❤️ by{' '}
                     <a href="https://mhmdrameez.github.io/" target="_blank" rel="noopener noreferrer">
                         <u>mhmdrameez</u>
                     </a>
