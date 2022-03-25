@@ -24,13 +24,18 @@ const Footer = () => {
                         <u>mhmdrameez</u>
                     </a>
                 </p>
-                <br/>
-                <a href="https://www.buymeacoffee.com/mhmdrameez" target="_blank">
-                    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"   />
-                </a>
+               
+               
 
                 {/* {isEnabled && <GithubButtons />} */}
             </Container>
+            <a href="https://www.buymeacoffee.com/mhmdrameez" target="_blank">
+                    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"   />
+                </a>
+
+
+
+            
         </footer>
     );
 };
